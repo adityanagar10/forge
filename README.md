@@ -2,6 +2,8 @@
 
 A PostgreSQL-backed job queue system with workers, retry logic, dead-letter queue, and a real-time dashboard.
 
+![Forge Dashboard](assets/dashboard.png)
+
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                              Architecture                                    │
